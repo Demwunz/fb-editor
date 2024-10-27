@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/cabinetoffice/fb-metadata-presenter.git
   revision: 82ada5223bf46b3352d2d87d429830924cf2961b
-  branch: fs-branch
+  ref: 82ada52
   specs:
     metadata_presenter (3.4.4)
       govspeak (~> 7.1)

@@ -8,7 +8,8 @@ ruby '3.1.3'
 gem 'metadata_presenter',
     github: 'cabinetoffice/fb-metadata-presenter',
     # ref: '01b75e2fe97be32d07317528bca108ac98d0fe1f'
-     branch: 'fs-branch'
+    ref: '82ada52'
+    # branch: 'fs-branch'
     # path: '../fb-metadata-presenter/'
 # gem 'metadata_presenter', path: '/Users/arul/arul/workspace/co/ruby/fb-metadata-presenter'
 # gem 'metadata_presenter', '3.4.5'
